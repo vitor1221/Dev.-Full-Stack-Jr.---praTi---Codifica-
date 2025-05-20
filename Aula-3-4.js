@@ -51,8 +51,9 @@ if((numero1 > numero2) && (numero1 > numero3)){//jeito do professor
 //prompt()
 //npm install prompt-sync (usar no terminal para instalar a biblioteca)
 
-const prompt = require('prompt-sync')()//calculadora simples do professor com if else
+const prompt = require('prompt-sync')()
 
+//calculadora simples do professor com if else
 let valor1 = Number(prompt("Insira o primeiro valor: ")) 
 let valor2= Number(prompt("Insira o segundo valor: ")) 
 let op = prompt('Informe a operação desejada: (+, -, /, *): ') 
