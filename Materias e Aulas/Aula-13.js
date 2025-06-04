@@ -1,4 +1,4 @@
-//Aula 12: Recursividade e TADs
+//Aula 13: Recursividade e TADs
 
 function fatorial(n){// função recursiva
     if( n == 0){// tem que ter uma condição de parada
