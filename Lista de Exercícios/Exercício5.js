@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')()
 
 let peso = Number(prompt("Insira seu peso (kg): "))//pede o peso ao usuario
 let altura = Number(prompt("Insira sua altura (cm): "))//pede a altura ao usuario
-let IMC = peso/(altura*altura)
+let IMC = peso/((altura*altura)/100)
 //verifica a IMC
 if(IMC < 18.5){//se é menor que 18.5 é baixo peso
     console.log('Você esta abaixo do peso')
@@ -14,3 +14,5 @@ if(IMC < 18.5){//se é menor que 18.5 é baixo peso
 } else {//se esta acima de 30 obesidade
     console.log('Você esta como obesidade')
 }
+
+console.log(IMC)
