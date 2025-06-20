@@ -1,9 +1,6 @@
-function soma(n){
-    if( n == 0){
-        return 0
-    } else {
-        return n + soma(n -1)
-    }
-}
+let data = new Date()
 
-console.log(soma(5))
+console.log(data.getDate())
+console.log(data.getMonth() + 1)
+console.log(data.getFullYear())
+console.log(data.toString())
