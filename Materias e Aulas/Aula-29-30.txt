@@ -1,0 +1,9 @@
+flexbox:
+https://flexboxfroggy.com/
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+https://origamid.com/projetos/flexbox-guia-completo/
+
+grid layout:
+https://cssgridgarden.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout
+https://www.origamid.com/projetos/css-grid-layout-guia-completo/

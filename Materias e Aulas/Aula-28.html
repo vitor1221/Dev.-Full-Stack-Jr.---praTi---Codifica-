@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model - Dimensões</title>
+    <style>
+        div{
+            border: 1px solid black;
+        }
+        h2{
+            border: inherit;
+            width: 100px;
+            height: 100px;
+            padding: 10px;
+            margin: 10px;
+            box-sizing: border-box;
+        }
+
+        div.dimensions h2 {
+            border: inherit;
+            height: 10cm ;
+            font-size: 1cm;
+            width: 50%;
+            min-width: 100px;
+            max-width: 300px;
+            /* https://www.w3.org/Style/Examples/007/units.pt_BR.html 
+               https://www.w3schools.com/cssref/css_units.php */
+        }
+        /* largura total = width + padding * 2 + border * 2 */
+        /* altura total = heigth + padding * 2 + border * 2 */
+
+        /*
+        Static
+        Relative
+        Absoluto
+        Fixo
+        Sticky
+        */
+    </style>
+</head>
+<body>
+    <div >
+        <h2>Conteúdo</h2>
+    </div>
+    <div class="dimensions">
+        <h2>Conteúdo</h2>
+    </div>
+</body>
+</html>
