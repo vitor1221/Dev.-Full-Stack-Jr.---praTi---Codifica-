@@ -1,0 +1,46 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.conteiner{
+    width: 100%;
+    border: 1px solid red;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.item{
+    background-color: #7266df;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+img{
+    max-width: 100%;
+}
+
+@media(max-width: 480px){
+    .conteiner{
+        grid-template-columns: 1fr;
+    }
+
+    h1{
+        font-size: 1.5rem;
+    }
+
+    .item{
+        padding: 10px;
+    }
+}

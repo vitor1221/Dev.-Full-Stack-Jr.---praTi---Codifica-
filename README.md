@@ -1,2 +1,2 @@
 # Dev. Full Stack Jr. (+praTi & Codifica)
-estudos pra dev full Stack
+Repositorio do curso Dev. Full Stack Jr. da +praTi & Codifica,  
