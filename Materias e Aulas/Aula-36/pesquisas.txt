@@ -1,0 +1,11 @@
+APIs:
+https://www.omdbapi.com/
+https://developer.themoviedb.org/docs/getting-started
+
+Métodos de requisição HTTP(drud):
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods
+https://http.cat/
+
+
+
+atividade de consumo de APIs

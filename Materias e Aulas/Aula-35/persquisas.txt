@@ -1,0 +1,8 @@
+Callback
+https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function
+
+promise:
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+API:
+https://viacep.com.br/
