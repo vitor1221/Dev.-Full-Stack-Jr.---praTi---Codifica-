@@ -1,12 +1,15 @@
 {
   "dependencies": {
+    "jsdom": "^27.0.1",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.27.1",
+    "@testing-library/react": "^16.3.0",
     "autoprefixer": "^10.4.21",
     "html-webpack-plugin": "^5.6.4",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.16"
+    "tailwindcss": "^4.1.16",
+    "vitest": "^4.0.4"
   }
 }

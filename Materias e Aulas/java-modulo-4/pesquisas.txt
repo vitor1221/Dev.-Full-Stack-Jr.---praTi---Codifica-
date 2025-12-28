@@ -1,0 +1,23 @@
+#Programação Orientada à Objetos:
+
+#Tipos de Construtores e Métodos:
+
+#Interface, Herança e Polimorfismo:
+
+#Relacionamento entre objetos:
+
+#Collections e Streams:
+
+#Tratamento de Erros e Exceções:
+
+#Threads, Concorrência e Paralelismo:
+
+#Arquivos em Java:
+
+#Spring Framework:
+
+#ioC ou Indicadores de Comprometimento (Indicators of Compromise):
+
+#beans spring boot:
+
+Estruturando a Aplicação com Controllers e Services (conteudo dentro do spring):
